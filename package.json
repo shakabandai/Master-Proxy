@@ -1,0 +1,23 @@
+{
+  "name": "masterproxyfec",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DemocritusCloud/Master-Proxy.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DemocritusCloud/Master-Proxy/issues"
+  },
+  "homepage": "https://github.com/DemocritusCloud/Master-Proxy#readme",
+  "dependencies": {
+    "react": "^16.7.0",
+    "react-dom": "^16.7.0"
+  }
+}
