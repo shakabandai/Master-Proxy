@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/DemocritusCloud/Master-Proxy#readme",
   "dependencies": {
+    "babel": "^6.23.0",
+    "express": "^4.16.4",
     "react": "^16.7.0",
     "react-dom": "^16.7.0"
   }
