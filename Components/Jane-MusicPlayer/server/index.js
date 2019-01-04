@@ -9,7 +9,7 @@ server.use(bodyParser.urlencoded({ extended: true }));
 
 server.use(express.static(path.join(__dirname, '/../client/dist')));
 
-server.listen(3000, () => { console.log('listening to port 3000'); });
+server.listen(3002, () => { console.log('listening to port 3002'); });
 
 // GET request to fetch a new song data from db
 // let id;
